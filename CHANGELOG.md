@@ -1,3 +1,10 @@
+## Next Release
+
+### ares-install
+
+* Fixed "isDate is not a function" error that prevented usage of Node.js 24.
+
+
 ## 3.2.3 (March 25, 2026)
 
 ### ares-generate
